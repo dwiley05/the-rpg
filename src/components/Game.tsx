@@ -15,7 +15,7 @@ const Game: React.FC = () => {
     }
   }, []);
 
-  return <div ref={gameRef} style={{ width: "800px", height: "600px" }} />;
+  return <div ref={gameRef}/>;
 };
 
 export default Game;
