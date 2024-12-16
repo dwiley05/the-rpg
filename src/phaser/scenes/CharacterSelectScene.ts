@@ -4,9 +4,11 @@ import { PlayerType } from "../../game/constants/player-types";
 
 export default class CharacterSelectScene extends Phaser.Scene {
   private portraits: string[] = [];
+  public registry: Phaser.Data.DataManager;
 
   constructor() {
     super({ key: "CharacterSelect" });
+    this.registry = this.sys.scene.registry;
   }
 
   preload() {
@@ -60,7 +62,7 @@ export default class CharacterSelectScene extends Phaser.Scene {
       }
 
       this.addHoverEffects(character);
-      character.on("pointerdown", () => this.selectCharacter(portraitKey));
+      character.on("pointerdown", () => this.selectCharacter(playerTypeEntry?.spriteIndex));
     });
   }
 
@@ -82,10 +84,8 @@ export default class CharacterSelectScene extends Phaser.Scene {
     });
   }
 
-  private selectCharacter(characterId: string) {
-    console.log(`Selected character: ${characterId}`);
-
-    // Transition to the main game scene
-    this.scene.start("PreloadScene", { characterId });
+  private selectCharacter(characterIndex: number | undefined) {
+    this.registry.set("spriteIndex", characterIndex);
+    this.scene.start("PreloadScene");
   }
 }
