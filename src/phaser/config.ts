@@ -1,6 +1,7 @@
 import Phaser from 'phaser';
 import PreloadScene from './scenes/PreloadScene';
 import MainScene from './scenes/MainScene';
+import CharacterSelectScene from './scenes/CharacterSelectScene';
 
 export const config: Phaser.Types.Core.GameConfig = {
     type: Phaser.AUTO,
@@ -15,5 +16,5 @@ export const config: Phaser.Types.Core.GameConfig = {
     input: {
         keyboard: true
     },
-    scene: [PreloadScene, MainScene]  // PreloadScene must come first
+    scene: [CharacterSelectScene,PreloadScene, MainScene]  // PreloadScene must come first
 }; 
