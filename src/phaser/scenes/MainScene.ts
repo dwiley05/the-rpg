@@ -20,7 +20,6 @@ export default class MainScene extends Phaser.Scene {
       layer?.setScale(2);
     }
 
-    // Create player and health bar
     this.player = new Player(this, 100, 100);
     this.healthBar = new HealthBar(this, this.player.getSprite());
 
@@ -30,7 +29,6 @@ export default class MainScene extends Phaser.Scene {
   }
 
   update() {
-    // Update player movement and animations
     this.player.update();
 
     // Test health decrease with Q key

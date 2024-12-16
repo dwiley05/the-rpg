@@ -16,5 +16,9 @@ export const config: Phaser.Types.Core.GameConfig = {
     input: {
         keyboard: true
     },
-    scene: [CharacterSelectScene,PreloadScene, MainScene]  // PreloadScene must come first
+    scale: {
+        mode: Phaser.Scale.FIT,
+        autoCenter: Phaser.Scale.CENTER_BOTH,
+    },
+    scene: [CharacterSelectScene,PreloadScene, MainScene]  
 }; 
