@@ -1,0 +1,3553 @@
+{
+    "frames": {
+        "Characters_V3_Colour 0.png": {
+            "frame": {
+                "x": 208,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 1.png": {
+            "frame": {
+                "x": 16,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 2.png": {
+            "frame": {
+                "x": 32,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 4.png": {
+            "frame": {
+                "x": 64,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 5.png": {
+            "frame": {
+                "x": 80,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 6.png": {
+            "frame": {
+                "x": 96,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 7.png": {
+            "frame": {
+                "x": 112,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 8.png": {
+            "frame": {
+                "x": 128,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 9.png": {
+            "frame": {
+                "x": 144,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 10.png": {
+            "frame": {
+                "x": 160,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 11.png": {
+            "frame": {
+                "x": 176,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 12.png": {
+            "frame": {
+                "x": 192,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 14.png": {
+            "frame": {
+                "x": 0,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 15.png": {
+            "frame": {
+                "x": 16,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 16.png": {
+            "frame": {
+                "x": 32,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 18.png": {
+            "frame": {
+                "x": 64,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 19.png": {
+            "frame": {
+                "x": 80,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 20.png": {
+            "frame": {
+                "x": 96,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 21.png": {
+            "frame": {
+                "x": 112,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 22.png": {
+            "frame": {
+                "x": 128,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 24.png": {
+            "frame": {
+                "x": 160,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 25.png": {
+            "frame": {
+                "x": 176,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 26.png": {
+            "frame": {
+                "x": 192,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 27.png": {
+            "frame": {
+                "x": 208,
+                "y": 16,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 28.png": {
+            "frame": {
+                "x": 0,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 29.png": {
+            "frame": {
+                "x": 16,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 30.png": {
+            "frame": {
+                "x": 32,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 32.png": {
+            "frame": {
+                "x": 64,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 34.png": {
+            "frame": {
+                "x": 96,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 35.png": {
+            "frame": {
+                "x": 112,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 36.png": {
+            "frame": {
+                "x": 128,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 37.png": {
+            "frame": {
+                "x": 144,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 38.png": {
+            "frame": {
+                "x": 160,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 39.png": {
+            "frame": {
+                "x": 176,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 40.png": {
+            "frame": {
+                "x": 192,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 41.png": {
+            "frame": {
+                "x": 208,
+                "y": 32,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 42.png": {
+            "frame": {
+                "x": 0,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 44.png": {
+            "frame": {
+                "x": 32,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 46.png": {
+            "frame": {
+                "x": 64,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 47.png": {
+            "frame": {
+                "x": 80,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 48.png": {
+            "frame": {
+                "x": 96,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 49.png": {
+            "frame": {
+                "x": 112,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 50.png": {
+            "frame": {
+                "x": 128,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 51.png": {
+            "frame": {
+                "x": 144,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 52.png": {
+            "frame": {
+                "x": 160,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 54.png": {
+            "frame": {
+                "x": 192,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 55.png": {
+            "frame": {
+                "x": 208,
+                "y": 48,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 56.png": {
+            "frame": {
+                "x": 0,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 57.png": {
+            "frame": {
+                "x": 16,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 58.png": {
+            "frame": {
+                "x": 32,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 60.png": {
+            "frame": {
+                "x": 64,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 61.png": {
+            "frame": {
+                "x": 80,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 62.png": {
+            "frame": {
+                "x": 96,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 64.png": {
+            "frame": {
+                "x": 128,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 65.png": {
+            "frame": {
+                "x": 144,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 66.png": {
+            "frame": {
+                "x": 160,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 67.png": {
+            "frame": {
+                "x": 176,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 68.png": {
+            "frame": {
+                "x": 192,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 69.png": {
+            "frame": {
+                "x": 208,
+                "y": 64,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 70.png": {
+            "frame": {
+                "x": 0,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 71.png": {
+            "frame": {
+                "x": 16,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 72.png": {
+            "frame": {
+                "x": 32,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 74.png": {
+            "frame": {
+                "x": 64,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 75.png": {
+            "frame": {
+                "x": 80,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 76.png": {
+            "frame": {
+                "x": 96,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 77.png": {
+            "frame": {
+                "x": 112,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 78.png": {
+            "frame": {
+                "x": 128,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 79.png": {
+            "frame": {
+                "x": 144,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 80.png": {
+            "frame": {
+                "x": 160,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 81.png": {
+            "frame": {
+                "x": 176,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 82.png": {
+            "frame": {
+                "x": 192,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 84.png": {
+            "frame": {
+                "x": 208,
+                "y": 80,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 85.png": {
+            "frame": {
+                "x": 0,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 86.png": {
+            "frame": {
+                "x": 16,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 87.png": {
+            "frame": {
+                "x": 32,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 89.png": {
+            "frame": {
+                "x": 64,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 90.png": {
+            "frame": {
+                "x": 80,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 91.png": {
+            "frame": {
+                "x": 96,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 92.png": {
+            "frame": {
+                "x": 112,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 94.png": {
+            "frame": {
+                "x": 128,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 95.png": {
+            "frame": {
+                "x": 144,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 96.png": {
+            "frame": {
+                "x": 160,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 97.png": {
+            "frame": {
+                "x": 176,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 98.png": {
+            "frame": {
+                "x": 192,
+                "y": 96,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 99.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 100.png": {
+            "frame": {
+                "x": 0,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 101.png": {
+            "frame": {
+                "x": 16,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 102.png": {
+            "frame": {
+                "x": 32,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 104.png": {
+            "frame": {
+                "x": 64,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 105.png": {
+            "frame": {
+                "x": 80,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 106.png": {
+            "frame": {
+                "x": 96,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 107.png": {
+            "frame": {
+                "x": 112,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 108.png": {
+            "frame": {
+                "x": 128,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 109.png": {
+            "frame": {
+                "x": 144,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 110.png": {
+            "frame": {
+                "x": 160,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 111.png": {
+            "frame": {
+                "x": 176,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 112.png": {
+            "frame": {
+                "x": 192,
+                "y": 112,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 114.png": {
+            "frame": {
+                "x": 0,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 115.png": {
+            "frame": {
+                "x": 16,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 116.png": {
+            "frame": {
+                "x": 32,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 118.png": {
+            "frame": {
+                "x": 64,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 119.png": {
+            "frame": {
+                "x": 80,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 120.png": {
+            "frame": {
+                "x": 96,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 121.png": {
+            "frame": {
+                "x": 112,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 122.png": {
+            "frame": {
+                "x": 128,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 124.png": {
+            "frame": {
+                "x": 144,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 125.png": {
+            "frame": {
+                "x": 160,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 126.png": {
+            "frame": {
+                "x": 176,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 127.png": {
+            "frame": {
+                "x": 192,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 128.png": {
+            "frame": {
+                "x": 208,
+                "y": 128,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 129.png": {
+            "frame": {
+                "x": 0,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 130.png": {
+            "frame": {
+                "x": 16,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 131.png": {
+            "frame": {
+                "x": 32,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 134.png": {
+            "frame": {
+                "x": 80,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 135.png": {
+            "frame": {
+                "x": 96,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 136.png": {
+            "frame": {
+                "x": 112,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 137.png": {
+            "frame": {
+                "x": 128,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 138.png": {
+            "frame": {
+                "x": 144,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 139.png": {
+            "frame": {
+                "x": 160,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 140.png": {
+            "frame": {
+                "x": 176,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 141.png": {
+            "frame": {
+                "x": 192,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 142.png": {
+            "frame": {
+                "x": 208,
+                "y": 144,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 144.png": {
+            "frame": {
+                "x": 16,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 145.png": {
+            "frame": {
+                "x": 32,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 147.png": {
+            "frame": {
+                "x": 64,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 148.png": {
+            "frame": {
+                "x": 80,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 149.png": {
+            "frame": {
+                "x": 96,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 150.png": {
+            "frame": {
+                "x": 112,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 151.png": {
+            "frame": {
+                "x": 128,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 152.png": {
+            "frame": {
+                "x": 144,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 154.png": {
+            "frame": {
+                "x": 176,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 155.png": {
+            "frame": {
+                "x": 192,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 156.png": {
+            "frame": {
+                "x": 208,
+                "y": 160,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 157.png": {
+            "frame": {
+                "x": 0,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 158.png": {
+            "frame": {
+                "x": 16,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 159.png": {
+            "frame": {
+                "x": 32,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 161.png": {
+            "frame": {
+                "x": 64,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 162.png": {
+            "frame": {
+                "x": 80,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 164.png": {
+            "frame": {
+                "x": 96,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 165.png": {
+            "frame": {
+                "x": 112,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 166.png": {
+            "frame": {
+                "x": 128,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 167.png": {
+            "frame": {
+                "x": 144,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 168.png": {
+            "frame": {
+                "x": 160,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 169.png": {
+            "frame": {
+                "x": 176,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 170.png": {
+            "frame": {
+                "x": 192,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 171.png": {
+            "frame": {
+                "x": 208,
+                "y": 176,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 172.png": {
+            "frame": {
+                "x": 0,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 174.png": {
+            "frame": {
+                "x": 32,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 176.png": {
+            "frame": {
+                "x": 64,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 177.png": {
+            "frame": {
+                "x": 80,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 178.png": {
+            "frame": {
+                "x": 96,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 179.png": {
+            "frame": {
+                "x": 112,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 180.png": {
+            "frame": {
+                "x": 128,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 181.png": {
+            "frame": {
+                "x": 144,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 182.png": {
+            "frame": {
+                "x": 160,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 184.png": {
+            "frame": {
+                "x": 176,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 185.png": {
+            "frame": {
+                "x": 192,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 186.png": {
+            "frame": {
+                "x": 208,
+                "y": 192,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 187.png": {
+            "frame": {
+                "x": 0,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 188.png": {
+            "frame": {
+                "x": 16,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 189.png": {
+            "frame": {
+                "x": 32,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 191.png": {
+            "frame": {
+                "x": 64,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 192.png": {
+            "frame": {
+                "x": 80,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 194.png": {
+            "frame": {
+                "x": 112,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 195.png": {
+            "frame": {
+                "x": 128,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 196.png": {
+            "frame": {
+                "x": 144,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 197.png": {
+            "frame": {
+                "x": 160,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 198.png": {
+            "frame": {
+                "x": 176,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        },
+        "Characters_V3_Colour 199.png": {
+            "frame": {
+                "x": 192,
+                "y": 208,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            },
+            "duration": 100
+        }
+    }
+}
