@@ -1,5 +1,4 @@
 import Phaser from "phaser";
-import { ANIMATIONS } from "../constants/animations";
 
 export default class Player {
   private player: Phaser.Physics.Arcade.Sprite;
