@@ -16,7 +16,7 @@ export default class CharacterSelectScene extends Phaser.Scene {
 
   create() {
     this.add
-      .text(400, 100, "Select Your Character", {
+      .text(400, 100, "Choose Your Joe", {
         fontSize: "32px",
         color: "#fff",
       })
@@ -54,6 +54,13 @@ export default class CharacterSelectScene extends Phaser.Scene {
         .image(x, y, "characters", frameKey)
         .setInteractive()
         .setScale(4);
+
+      this.add
+        .text(x, y + 50, "Joe", {
+          fontSize: "16px",
+          color: "#fff",
+        })
+        .setOrigin(0.5);
 
       this.addHoverEffects(character);
 
