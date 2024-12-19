@@ -8,42 +8,37 @@ interface AnimationConfig {
 export const ANIMATIONS: Record<string, AnimationConfig> = {
     "idle-down": {
         key: "idle-down",
-        frames: [{ key: "characters", frame: 0 }],
-        frameRate: 8
+        frames: [],
+        frameRate: 8,
+        repeat: 0
+    },
+    "idle-up": {
+        key: "idle-up",
+        frames: [],
+        frameRate: 8,
+        repeat: 0
+    },
+    "idle-side": {
+        key: "idle-side",
+        frames: [],
+        frameRate: 8,
+        repeat: 0
     },
     "walk-down": {
-        key: "walk-down", 
-        frames: [
-            { key: "characters", frame: 4 },
-            { key: "characters", frame: 5 }
-        ],
+        key: "walk-down",
+        frames: [],
         frameRate: 8,
         repeat: -1
     },
     "walk-up": {
         key: "walk-up",
-        frames: [
-            { key: "characters", frame: 6 },
-            { key: "characters", frame: 7 }
-        ],
+        frames: [],
         frameRate: 8,
         repeat: -1
     },
-    "walk-right": {
-        key: "walk-right",
-        frames: [
-            { key: "characters", frame: 8 },
-            { key: "characters", frame: 9 }
-        ],
-        frameRate: 8,
-        repeat: -1
-    },
-    "walk-left": {
-        key: "walk-left",
-        frames: [
-            { key: "characters", frame: 8 },
-            { key: "characters", frame: 9 }
-        ],
+    "walk-side": {
+        key: "walk-side",
+        frames: [],
         frameRate: 8,
         repeat: -1
     }

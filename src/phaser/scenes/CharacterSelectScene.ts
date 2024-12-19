@@ -1,20 +1,17 @@
 // src/scenes/CharacterSelectScene.ts
 import Phaser from "phaser";
-import { PlayerType } from "../../game/constants/player-types";
 
 export default class CharacterSelectScene extends Phaser.Scene {
-  private portraits: string[] = [];
-  public registry: Phaser.Data.DataManager;
-
   constructor() {
     super({ key: "CharacterSelect" });
-    this.registry = this.sys.scene.registry;
   }
 
   preload() {
-    Object.values(PlayerType).forEach((playerType) => {
-      this.load.image(playerType.image, `assets/portraits/${playerType.image}`);
-    });
+    this.load.atlas(
+      "characters",
+      "assets/characters.png",
+      "assets/Characters_V3_Colour_Updated.json"
+    );
   }
 
   create() {
@@ -26,43 +23,47 @@ export default class CharacterSelectScene extends Phaser.Scene {
       .setOrigin(0.5);
 
     const gridConfig = {
-      startX: 100,        // Start further left
-      startY: 200,        // Start higher
-      columns: 6,         // Show 6 portraits per row
+      startX: 100,
+      startY: 200,
+      columns: 6,
       spacing: {
-        x: 120,         // Horizontal spacing between portraits
-        y: 120          // Vertical spacing between rows
-      }
+        x: 120,
+        y: 120,
+      },
     };
 
-    Object.values(PlayerType).forEach((playerType) => {
-      this.portraits.push(playerType.image);
+    const frames = this.textures.get("characters").getFrameNames();
+
+    // Filter for only the first frame of each character
+    const validCharacterFrames = frames.filter((frame) => {
+      const match = frame.match(/Characters_V3_Colour (\d+)\.png/);
+      if (!match) return false;
+      const frameNumber = parseInt(match[1]);
+      return frameNumber % 10 === 0;
     });
 
-    // Dynamically create character selection options
-    this.portraits.forEach((portraitKey, index) => {
-      const column = index % gridConfig.columns;
-      const row = Math.floor(index / gridConfig.columns);
-      
-      const x = gridConfig.startX + (column * gridConfig.spacing.x);
-      const y = gridConfig.startY + (row * gridConfig.spacing.y);
+    // Create character selection options
+    validCharacterFrames.forEach((frameKey, i) => {
+      const column = i % gridConfig.columns;
+      const row = Math.floor(i / gridConfig.columns);
+
+      const x = gridConfig.startX + column * gridConfig.spacing.x;
+      const y = gridConfig.startY + row * gridConfig.spacing.y;
 
       const character = this.add
-        .image(x, y, portraitKey)
+        .image(x, y, "characters", frameKey)
         .setInteractive()
-        .setScale(2);
-
-      // Add name label
-      const playerTypeEntry = Object.values(PlayerType).find(pt => pt.image === portraitKey);
-      if (playerTypeEntry) {
-        this.add.text(x, y + 30, playerTypeEntry.name, {
-          fontSize: '14px',
-          color: '#fff'
-        }).setOrigin(0.5);
-      }
+        .setScale(4);
 
       this.addHoverEffects(character);
-      character.on("pointerdown", () => this.selectCharacter(playerTypeEntry?.spriteIndex));
+
+      const match = frameKey.match(/Characters_V3_Colour (\d+)\.png/);
+      const frameNumber = match ? parseInt(match[1]) : 0;
+      const characterIndex = Math.floor(frameNumber / 10);
+
+      character.on("pointerdown", () => {
+        this.selectCharacter(characterIndex);
+      });
     });
   }
 
@@ -84,7 +85,8 @@ export default class CharacterSelectScene extends Phaser.Scene {
     });
   }
 
-  private selectCharacter(characterIndex: number | undefined) {
+  private selectCharacter(characterIndex: number) {
+    // Since we're using frame numbers divisible by 10, we need to use the actual characterIndex
     this.registry.set("spriteIndex", characterIndex);
     this.scene.start("PreloadScene");
   }

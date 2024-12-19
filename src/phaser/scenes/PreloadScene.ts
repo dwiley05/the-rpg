@@ -6,21 +6,17 @@ export default class PreloadScene extends Phaser.Scene {
   }
 
   preload() {
-    // Load the tileset image
-    this.load.image("tiles", "/assets/tilemap.png");
+    // Load the tileset image - make sure path matches public folder structure
+    this.load.image("tiles", "assets/tilemap.png");
 
-    // Load the tilemap JSON
-    this.load.tilemapTiledJSON("map", "/assets/JoeRpgMap.json");
+    // Load the tilemap JSON - make sure path matches public folder structure
+    this.load.tilemapTiledJSON("map", "assets/JoeRpgMap.json");
 
-    // Load characters spritesheet
-    this.load.spritesheet(
-      "characters",
-      "/assets/characters.png", 
-      {
-        frameWidth: 16,
-        frameHeight: 16,
-        spacing: 0,
-      }
+    // Load characters spritesheet - updated to match actual filename
+    this.load.atlas(
+      'characters',
+      'assets/characters.png',
+      'assets/Characters_V3_Colour_Updated.json'  // Changed to match actual file
     );
   }
 
