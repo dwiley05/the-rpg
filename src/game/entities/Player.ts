@@ -1,4 +1,5 @@
 import Phaser from "phaser";
+import { ANIMATIONS } from "../constants/animations";
 
 export default class Player {
   private player: Phaser.Physics.Arcade.Sprite;
@@ -26,17 +27,9 @@ export default class Player {
   }
 
   private destroyExistingAnimations(scene: Phaser.Scene) {
-    // Only destroy the animations for our specific keys
-    const animationKeys = [
-      "idle-down",
-      "idle-up",
-      "idle-side",
-      "walk-down",
-      "walk-up",
-      "walk-side",
-    ];
+    const animations = Object.keys(ANIMATIONS);
 
-    animationKeys.forEach((key) => {
+    animations.forEach((key) => {
       if (scene.anims.exists(key)) {
         scene.anims.remove(key);
       }
@@ -56,8 +49,8 @@ export default class Player {
 
     // Create animations with frame validation
     scene.anims.create({
-      key: "walk-down",
-      frameRate: 8,
+      key: ANIMATIONS["walk-down"].key,
+      frameRate: ANIMATIONS["walk-down"].frameRate,
       repeat: -1,
       frames: [
         {
@@ -72,9 +65,9 @@ export default class Player {
     });
 
     scene.anims.create({
-      key: "walk-up",
-      frameRate: 8,
-      repeat: -1,
+      key: ANIMATIONS["walk-up"].key,
+      frameRate: ANIMATIONS["walk-up"].frameRate,
+      repeat: ANIMATIONS["walk-up"].repeat,
       frames: [
         {
           key: "characters",
@@ -88,9 +81,9 @@ export default class Player {
     });
 
     scene.anims.create({
-      key: "walk-side",
-      frameRate: 8,
-      repeat: -1,
+      key: ANIMATIONS["walk-side"].key,
+      frameRate: ANIMATIONS["walk-side"].frameRate,
+      repeat: ANIMATIONS["walk-side"].repeat,
       frames: [
         {
           key: "characters",
@@ -105,18 +98,18 @@ export default class Player {
 
     // Idle animations with frame validation
     scene.anims.create({
-      key: "idle-down",
-      frameRate: 8,
-      repeat: 0,
+      key: ANIMATIONS["idle-down"].key,
+      frameRate: ANIMATIONS["idle-down"].frameRate,
+      repeat: ANIMATIONS["idle-down"].repeat,
       frames: [
         { key: "characters", frame: `Characters_V3_Colour ${baseFrame}.png` },
       ],
     });
 
     scene.anims.create({
-      key: "idle-up",
-      frameRate: 8,
-      repeat: 0,
+      key: ANIMATIONS["idle-up"].key,
+      frameRate: ANIMATIONS["idle-up"].frameRate,
+      repeat: ANIMATIONS["idle-up"].repeat,
       frames: [
         {
           key: "characters",
@@ -126,9 +119,9 @@ export default class Player {
     });
 
     scene.anims.create({
-      key: "idle-side",
-      frameRate: 8,
-      repeat: 0,
+      key: ANIMATIONS["idle-side"].key  ,
+      frameRate: ANIMATIONS["idle-side"].frameRate,
+      repeat: ANIMATIONS["idle-side"].repeat,
       frames: [
         {
           key: "characters",
@@ -151,12 +144,12 @@ export default class Player {
     if (this.cursors.left?.isDown) {
       this.player.setVelocityX(-this.speed);
       this.player.setFlipX(true);
-      currentAnim = "walk-side";
+      currentAnim = ANIMATIONS["walk-side"].key;
       isMoving = true;
     } else if (this.cursors.right?.isDown) {
       this.player.setVelocityX(this.speed);
       this.player.setFlipX(false);
-      currentAnim = "walk-side";
+      currentAnim = ANIMATIONS["walk-side"].key;
       isMoving = true;
     } else {
       this.player.setVelocityX(0);
@@ -165,11 +158,11 @@ export default class Player {
     // Handle vertical movement
     if (this.cursors.up?.isDown) {
       this.player.setVelocityY(-this.speed);
-      currentAnim = "walk-up";
+      currentAnim = ANIMATIONS["walk-up"].key;
       isMoving = true;
     } else if (this.cursors.down?.isDown) {
       this.player.setVelocityY(this.speed);
-      currentAnim = "walk-down";
+      currentAnim = ANIMATIONS["walk-down"].key;
       isMoving = true;
     } else {
       this.player.setVelocityY(0);
@@ -182,15 +175,15 @@ export default class Player {
       }
     } else {
       // Set idle animation based on last movement
-      const lastAnim = this.player.anims.currentAnim?.key || "idle-down";
-      if (lastAnim.includes("up")) {
-        this.player.anims.play("idle-up", true);
-      } else if (lastAnim.includes("side")) {
-        this.player.anims.play("idle-side", true);
+      const lastAnim = this.player.anims.currentAnim?.key || ANIMATIONS["idle-down"].key;
+      if (lastAnim.includes(ANIMATIONS["idle-up"].key)) {
+        this.player.anims.play(ANIMATIONS["idle-up"].key, true);
+      } else if (lastAnim.includes(ANIMATIONS["idle-side"].key)) {
+        this.player.anims.play(ANIMATIONS["idle-side"].key, true);
         // Maintain flip state for side idle
         this.player.setFlipX(this.player.flipX);
       } else {
-        this.player.anims.play("idle-down", true);
+        this.player.anims.play(ANIMATIONS["idle-down"].key, true);
       }
     }
   }
